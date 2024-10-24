@@ -1,0 +1,12 @@
+{
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "emmet.syntaxProfiles": {},
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+    "json.schemas": [
+
+    ],
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    }
+}
